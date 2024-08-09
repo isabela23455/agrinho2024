@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho{
+    background-color:white;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    right: 29%;
+    width: 20%;
+}
+
+.vósó{
+    width: 20%;
+}
+
+.love{
+    width: 20%;
+}
+
+.familia{
+    width: 43%;
+}
+
+
+footer {
+    background-color: #00BF63;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
